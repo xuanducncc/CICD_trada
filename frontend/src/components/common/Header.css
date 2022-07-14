@@ -1,0 +1,8 @@
+.headerProfile{
+    cursor: pointer;
+    padding:5px;
+
+}
+.headerProfile:hover{
+    background: rgb(224, 221, 221);
+}

@@ -1,0 +1,46 @@
+.wrapCustomEditor{
+    row-gap: 0px;
+    height: 78px;
+    border: 1px solid #e3e9f0;
+    background-color: #f8f9fc;
+    margin-top: 15px;
+    padding-top: 22px;
+}
+.textBtnCreate{
+    font-size: 17px;
+    color: gray;
+    font-weight: bold;
+}
+
+.custom-editor-create-font {
+    color: rgba(0, 0, 0, 0.85); 
+    font-weight: 500; 
+    font-size: 16px; 
+    line-height: 22px;
+}
+
+.object {
+    border-bottom:1px solid #E3E9F0;
+}
+
+.wrap-text {
+    padding: 30px;
+    border-bottom:1px solid #E3E9F0;
+}
+
+.text {
+    color: #9c9c9c;
+    font-size: 14px;
+}
+
+.btnAdd {
+    padding: 20px;
+}
+
+.wrapBtn {
+    position: fixed;
+    bottom: 0;
+    width: 20.5%;
+    height: 50px;
+    border-radius: 7px;
+}

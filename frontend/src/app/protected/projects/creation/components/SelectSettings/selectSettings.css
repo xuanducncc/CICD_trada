@@ -1,0 +1,19 @@
+.checkRadio{
+    font-size: 25px;
+    color: #121619;
+}
+.created-of-recommended{
+    border: 1px solid #e3e9f0;
+    padding:90px 60px 60px 60px;
+    width: 600px;
+}
+.wrap-comfirm-ratio{
+    border: 1px solid #e3e9f0;
+    width: 600px;
+    padding: 40px;
+}
+.wrap-changes-confirm{
+    border: 1px solid #e3e9f0;
+    width: 600px;
+    padding: 40px;
+}

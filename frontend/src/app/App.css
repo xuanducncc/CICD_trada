@@ -1,0 +1,47 @@
+@import "~antd/dist/antd.css";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border-spacing: 0;
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+}
+
+.layout {
+  min-height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ddd;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #666;
+}
+
+.ant-btn.active,
+.ant-btn-text.active:hover,
+.ant-btn-text.active:focus {
+  background-color: #40a9ffcc;
+}
+
+.gg-login-button {
+  width: 100%;
+}
+.gg-login-button span {
+  text-align: center;
+  width: 100%;
+}
+
+.td-login-btn.ant-btn-lg {
+  height: 47px;
+}

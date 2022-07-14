@@ -1,0 +1,16 @@
+.namePjInfor{
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.description{
+    padding: 10px;
+    border-radius: 5px;
+}
+.text-project-infor{
+    border-bottom: 1px solid #EEF2F7;
+    padding: 0px 0px 25px 50px;
+}
+.formInfor {
+    margin: 20px 0px 20px 50px;
+}

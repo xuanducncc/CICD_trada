@@ -1,0 +1,7 @@
+.stepped-layout-header {
+  background: #fff;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  font-size: x-large;
+}

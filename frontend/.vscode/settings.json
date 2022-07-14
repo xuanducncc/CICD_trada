@@ -1,0 +1,10 @@
+{
+	"jumpToAliasFile.alias": {
+		"@app": "/Users/retina/Projects/autobot/trada/frontend/src/app",
+		"@core": "/Users/retina/Projects/autobot/trada/frontend/src/core",
+		"@components": "/Users/retina/Projects/autobot/trada/frontend/src/components",
+		"@utils": "/Users/retina/Projects/autobot/trada/frontend/src/utils",
+		"@libs": "/Users/retina/Projects/autobot/trada/frontend/src/libs",
+		"@assets": "/Users/retina/Projects/autobot/trada/frontend/src/assets"
+	}
+}

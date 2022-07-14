@@ -1,0 +1,52 @@
+.markdown-body {
+width: 100%;
+}
+
+.markdown-body>:first-child {
+  margin-top: 0!important;
+  margin-bottom: 20px;
+  justify-content: center;
+  display: flex;
+}
+
+.markdown-body h1 {
+  padding-bottom: .3em;
+  border-bottom: 1px solid #eaecef;
+}
+.markdown-body code {
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+}
+
+.markdown-body h1 {
+  justify-content: center;
+  display: flex;
+  font-size: xxx-large;
+}
+
+.markdown-body h1, 
+.markdown-body h2, 
+.markdown-body h3, 
+.markdown-body h4, 
+.markdown-body h5, 
+.markdown-body h6 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.markdown-body li {
+  font-weight: bold;
+}
+
+.markdown-body li p{
+  font-weight: normal;
+}
+
+.markdown-body p img{
+  max-width: 100%;
+}
