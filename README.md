@@ -1,4 +1,4 @@
-# backend:
+# backend
 
 cp sample.env .env
 
@@ -14,5 +14,5 @@ python3 manage.py collectstatic
 
 python3 manage.py runserver
 
-# swagger:
+# swagger
 http://localhost:8000/swagger/
