@@ -18,14 +18,15 @@ pipeline {
     //    }
         stage('Stage echo'){
             steps {
-                echo 'Begin Start Jenkine File for task CI/CD'
+                echo 'Begin Start Jenkine File for task CI/CD',
+                echo 'Done tack echo form Jenkins File'
             }
         }
-        stage('Deploy dev environment') {
-            steps {
-                sh 'ANSIBLE_HOST_KEY_CHECKING=false ansible-playbook -i playbooks/inventories/dev/hosts playbooks/playbook.yaml'
-            }
-        }
+        // stage('Deploy dev environment') {
+        //     steps {
+        //         sh 'ANSIBLE_HOST_KEY_CHECKING=false ansible-playbook -i playbooks/inventories/dev/hosts playbooks/playbook.yaml'
+        //     }
+        // }
     }
 //    post {
 //        success {
