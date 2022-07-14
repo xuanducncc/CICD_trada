@@ -18,8 +18,7 @@ pipeline {
     //    }
         stage('Stage echo'){
             steps {
-                echo 'Begin Start Jenkine File for task CI/CD',
-                echo 'Done tack echo form Jenkins File'
+                echo 'Begin Start Jenkine File for task CI/CD'
             }
         }
         // stage('Deploy dev environment') {
