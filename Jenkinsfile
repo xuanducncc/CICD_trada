@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Stage echo'){
             steps {
-                echo 'Begin start Jenkine File for task CI/CD final.!'
+                echo 'Begin start Jenkine File for task CI/CD final'
             }
         }
         // stage('Deploy dev environment') {
